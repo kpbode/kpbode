@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Mobile Full-Stack Developer working from my home near Bremen, Germany
+#### I'm a Software Engineer working from my home near Bremen, Germany
 
 <p style="line-height: 2.5">
 ⚽️ &nbsp;&nbsp; I'm currently working at OneFootball where we are creating the ultimate platform for football. <br />
